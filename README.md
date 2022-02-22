@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tonybrill
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on complexity theory and the work started by John Henry Holland
+- 📫 How to reach me tbrill@pacwest.com
